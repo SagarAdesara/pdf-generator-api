@@ -1,0 +1,70 @@
+{
+  "Students": [
+    {
+      "name": "Amit Goenka",
+      "major": "Physics",
+      "address": {
+        "state": "KA",
+        "zip": "560016",
+        "address_1": "14, Malleshwaram",
+        "address_2": "Vinayaka Temple",
+        "city": "Bengaluru"
+      }
+    },
+    {
+      "name": "Rakesh Goenka",
+      "major": "Maths",
+      "address": {
+        "state": "PB",
+        "zip": "140119 ",
+        "address_1": "56, Netaji Road",
+        "address_2": "Gurudwara",
+        "city": "Abiana"
+      }
+    },
+    {
+      "name": "Sagar Adesara",
+      "major": "Comp. Science",
+      "address": {
+        "state": "GJ",
+        "zip": "1112233",
+        "address_1": "34, Netaji Road",
+        "address_2": "Gurudwara",
+        "city": "Badheri"
+      }
+    },
+    {
+      "name": "Pawan Goenka",
+      "major": "Chem",
+      "address": {
+        "state": "PB",
+        "zip": "161110 ",
+        "address_1": "34, Netaji Road",
+        "address_2": "Gurudwara",
+        "city": "Badheri"
+      }
+    },
+    {
+      "name": "Paresh Patil",
+      "major": "Maths",
+      "address": {
+        "state": "PB",
+        "zip": "140120 ",
+        "address_1": "516, Netaji Road",
+        "address_2": "Gurudwara",
+        "city": "Abiana"
+      }
+    },
+    {
+      "name": "Rakesh Asthana",
+      "major": "Maths",
+      "address": {
+        "state": "MH",
+        "zip": "431101 ",
+        "address_1": "Vir Savarkar Marg",
+        "address_2": "Gaon Devi",
+        "city": "Mumbai"
+      }
+    }
+  ]
+}
