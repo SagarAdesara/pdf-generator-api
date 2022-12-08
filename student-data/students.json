@@ -23,16 +23,17 @@
       }
     },
     {
-      "name": "Sagar Adesara",
-      "major": "Comp. Science",
+      "name": "Rakesh Jha",
+      "major": "Bio",
       "address": {
-        "state": "GJ",
-        "zip": "1112233",
+        "state": "PB",
+        "zip": "160129 ",
         "address_1": "34, Netaji Road",
         "address_2": "Gurudwara",
         "city": "Badheri"
       }
     },
+
     {
       "name": "Pawan Goenka",
       "major": "Chem",
